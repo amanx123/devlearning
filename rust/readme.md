@@ -141,4 +141,13 @@ I'll update this README regularly with my progress, challenges faced, and insigh
 -   Understanding performance implications of different Rust constructs
 -   Best practices for error handling and robust program design in Rust
 
+Future of Rust
+----
+
+- Continued growth in systems programming
+- Increased adoption in web development (backend and WebAssembly)
+- Expansion in embedded systems and IoT
+- Potential growth in mobile development
+- Ongoing language improvements (e.g., const generics, async traits)
+
 Feel free to follow along or reach out if you're also on a Rust learning journey!
